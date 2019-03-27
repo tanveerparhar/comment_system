@@ -1,6 +1,7 @@
 # comment_system
 frontend of comment system
-this app was made using React js.
+
+This app was made using React js.
 
 To run this file do the following :
 
